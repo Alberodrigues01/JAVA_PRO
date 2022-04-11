@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA PRO.iml" filepath="$PROJECT_DIR$/.idea/JAVA PRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPro_Modulo4_ExercicioFilmes/filmescad/cad.iml" filepath="$PROJECT_DIR$/JavaPro_Modulo4_ExercicioFilmes/filmescad/cad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPro_Modulo4_ExercicioFilmes/out/production/JavaPro_Modulo4_ExercicioFilmes/filmescad/filmescad.iml" filepath="$PROJECT_DIR$/JavaPro_Modulo4_ExercicioFilmes/out/production/JavaPro_Modulo4_ExercicioFilmes/filmescad/filmescad.iml" />
+    </modules>
+  </component>
+</project>
